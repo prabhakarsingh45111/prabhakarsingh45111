@@ -87,31 +87,4 @@ I transitioned from backend development to analytics because I enjoy **telling s
 
 
 
-## 📈 Projects
-
-### 🔗 Click to view my live repositories:
-
-<p align="center">
-
-  <a href="https://github.com/your-username/sales-dashboard-powerbi" target="_blank">
-    <img src="https://raw.githubusercontent.com/your-username/sales-dashboard-powerbi/main/preview.png" alt="Sales Dashboard in Power BI" width="300"/>
-    <br><strong>Sales Dashboard (Power BI)</strong>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://github.com/your-username/python-data-cleaning" target="_blank">
-    <img src="https://raw.githubusercontent.com/your-username/python-data-cleaning/main/preview.png" alt="Python Data Cleaning Script" width="300"/>
-    <br><strong>Python Data Cleaning</strong>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://github.com/your-username/sql-business-reports" target="_blank">
-    <img src="https://raw.githubusercontent.com/your-username/sql-business-reports/main/preview.png" alt="SQL Business Reports" width="300"/>
-    <br><strong>SQL Business Reports</strong>
-  </a>
-
-</p>
-
 ---
