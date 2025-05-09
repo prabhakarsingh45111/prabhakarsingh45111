@@ -21,7 +21,7 @@ I’m a **Data Analyst** with a strong foundation in **Software Development**. W
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
 </p>
 
 ---
@@ -36,7 +36,7 @@ I’m a **Data Analyst** with a strong foundation in **Software Development**. W
 | ![Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png) | Data manipulation and reporting |
 | ![MySQL](https://img.icons8.com/ios-filled/50/00618A/mysql-logo.png) | Relational database |
 | ![Git](https://img.icons8.com/color/48/000000/git.png) | Version control |
-| ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png) | Backend web development |
+
 
 ---
 
