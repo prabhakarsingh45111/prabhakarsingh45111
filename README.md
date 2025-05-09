@@ -43,7 +43,7 @@ I’m a **Data Analyst** with a strong foundation in **Software Development**. W
 ### 📂 Featured Projects
 
 - **📈 Power BI Sales Dashboard**
-- [Link Text](https://github.com/your-username/your-repository)
+- [Movie DataSet](https://github.com/prabhakarsingh45111/movie_dataset)
 
   Interactive dashboard visualizing monthly performance with slicers, maps, and charts.
 
