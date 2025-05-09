@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Prabhakar Singh 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=3C8CFF&width=435&lines=Data+Analyst+Power+BI;;Ex-Software+Developer;Python+%7C+SQL+%7C+Power+BI+Expert;Transforming+data+into+insights!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=3C8CFF&width=435&lines=Data+Analyst+Power+BI_Analyst;Ex-Software+Developer;Python+%7C+SQL+%7C+Power+BI+Excel;Transforming+data+into+insights!" alt="Typing SVG" />
 </p>
 
 ---
