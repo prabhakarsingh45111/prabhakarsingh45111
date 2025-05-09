@@ -1,66 +1,82 @@
-<h1 align="center">👋 Hi, I'm [Your Name]</h1>
-<h3 align="center">Data Analyst | Former Software Developer | Python & SQL Enthusiast</h3>
-
----
-
-## 🧑‍💻 About Me
-
-I'm a data analyst with a strong background in software development. With 2 years of coding experience and deep skills in data tools, I turn complex data into clear insights that help businesses grow.
-
----
-
-## 💼 Tech Stack
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=3C8CFF&width=435&lines=Data+Analyst;Ex-Software+Developer;Python+%7C+SQL+%7C+Power+BI+Expert;Transforming+data+into+insights!" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📊 Projects
+### 👨‍💻 About Me
 
-- **📈 Power BI Sales Dashboard**  
-  Visualizes sales trends, product performance, and customer insights using interactive charts.
-
-- **🐍 Python Data Cleaning Script**  
-  Automated cleaning and preprocessing for large-scale CSV datasets.
-
-- **🗃️ SQL Business Reports**  
-  Optimized SQL queries for extracting and aggregating business-critical data.
-
-🔗 *Check out my pinned repositories for more!*
+I’m a **Data Analyst** with a strong foundation in **Software Development**. With over 2 years of coding experience, I now focus on transforming complex datasets into meaningful business insights.
 
 ---
 
-## 🎯 Currently Exploring
-
-- 📊 Advanced Data Visualizations  
-- ⚙️ Automation with Python  
-- 📂 Building ETL Pipelines
-
----
-
-## 🌐 Connect with Me
+### 🧠 Skills & Tech Stack
 
 <p align="left">
-  <a href="mailto:youremail@example.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="30"/></a>
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/></a>
-  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="30"/></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 ---
 
-## ⚡ Fun Fact
+### 📊 My Favorite Tools
 
-I love turning numbers into stories that empower better decisions.
-
-![Data Animation](https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif)
+| Tool        | Description |
+|-------------|-------------|
+| ![Python](https://img.icons8.com/color/48/000000/python.png) | Scripting, data analysis, automation |
+| ![SQL](https://img.icons8.com/ios-filled/50/00758f/sql.png) | Querying and transforming data |
+| ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) | Dashboarding and BI reporting |
+| ![Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png) | Data manipulation and reporting |
+| ![MySQL](https://img.icons8.com/ios-filled/50/00618A/mysql-logo.png) | Relational database |
+| ![Git](https://img.icons8.com/color/48/000000/git.png) | Version control |
+| ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png) | Backend web development |
 
 ---
+
+### 📂 Featured Projects
+
+- **📈 Power BI Sales Dashboard**  
+  Interactive dashboard visualizing monthly performance with slicers, maps, and charts.
+
+- **🐍 Python Data Cleaner**  
+  Automated pipeline to clean, transform, and export clean datasets using `pandas`.
+
+- **🧾 SQL Business Reports**  
+  Scripts that generate meaningful reports for various business KPIs.
+
+---
+
+### 🚀 Currently Exploring
+
+- Excel Macros and VBA  
+- Data Engineering Tools (Airflow, DBT)  
+- Predictive Modeling
+
+---
+
+### 📬 Connect with Me
+
+<p>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <!-- Optional: Add a portfolio site -->
+</p>
+
+---
+
+### 💡 Fun Fact
+
+I transitioned from backend development to analytics because I enjoy **telling stories with data** more than just writing code.
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZsYm5n3FgsGZMRm/giphy.gif" width="300" />
+</p>
